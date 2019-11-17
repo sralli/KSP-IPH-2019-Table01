@@ -19,7 +19,7 @@ List of tools:
 Procedure to generate the datasets: 
   - Run python whitespaces.py on any given datasets to remove redundancies.
   - Rotate any images not straight with rotation.py
-  - Run "Splitting data on male and female.ipynb" on the 'to-be' queried datasets.
+  - Run "Splitting data on male and female.ipynb" on the 'to-be' queried datasets. 
   - Run "Resnet Feature Extraction" to create the final .pickle dataset files.
   
 Final:
@@ -31,3 +31,6 @@ Final:
               (File to be located, Matched file), confidence level)
               
  Architecture of the entire course project is given in: "Final PPT Facial Recog.pptx"
+
+
+Predefined DataSet link: https://www.dropbox.com/s/0wsmht0y8hvviy0/Images%20-%20Final%20Sub.zip?dl=0
